@@ -34,18 +34,26 @@
   &lt;div class=&#34;about-info&#34;&gt;
     &lt;p&gt;&lt;strong&gt;🙋🏻‍♂️ Name:&lt;/strong&gt; Shihan Peng (彭仕涵)&lt;/p&gt;
     &lt;p&gt;&lt;strong&gt;🎓 Education:&lt;/strong&gt;&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;2023–Present, Huazhong University of Science and Technology, M.Sc. in Artificial Intelligence&lt;/li&gt;
-        &lt;li&gt;2019–2023, Northeastern University at Qinhuangdao, B.Eng. in Automation&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;div class=&#34;about-list&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;2023.09 – 2026.06, &lt;br&gt;
+                Huazhong University of Science and Technology, &lt;br&gt;
+                M.Eng. in Artificial Intelligence&lt;/li&gt;
+            &lt;li&gt;2019.09 – 2023.06, &lt;br&gt;
+                Northeastern University at Qinhuangdao, &lt;br&gt;
+                B.Eng. in Automation&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
     &lt;p&gt;&lt;strong&gt;📚 Research Interests:&lt;/strong&gt;&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Computer Vision&lt;/li&gt;
-        &lt;li&gt;Depth Estimation&lt;/li&gt;
-        &lt;li&gt;Multi-Modal Sensor Fusion&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;div class=&#34;about-list&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Depth Estimation&lt;/li&gt;
+            &lt;li&gt;Event Camera&lt;/li&gt;
+            &lt;li&gt;Multi-Modal Fusion&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
     &lt;p&gt;&lt;strong&gt;🌐 Contact:&lt;/strong&gt; 
-      &lt;a href=&#34;mailto:your@email.com&#34;&gt;Email&lt;/a&gt; | 
+      &lt;a href=&#34;mailto:pengshihan@hust.edu.cn&#34;&gt;Email&lt;/a&gt; | 
       &lt;a href=&#34;https://github.com/Blang233&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;
