@@ -9,11 +9,56 @@
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>🏆 Competition Awards</title>
       <link>https://pengshihan.com/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pengshihan.com/awards/</guid>
-      <description></description>
+      <description>&lt;section class=&#34;awards-section&#34;&gt;
+  &lt;div class=&#34;award-item&#34;&gt;
+    &lt;div class=&#34;award-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/awards/Algorithm.jpg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;award-info&#34;&gt;
+      &lt;div class=&#34;award-title&#34;&gt;2024 International Algorithm Case Competition&lt;/div&gt;
+      &lt;div class=&#34;award-org&#34;&gt;Organization: Peng Cheng Laboratory / PazhouLab&lt;/div&gt;
+      &lt;div class=&#34;award-team&#34;&gt;Teammates: &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Hanyu Zhou, Wei Zhang, Yi Chang, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;award-level&#34;&gt;Award: &lt;strong&gt;Third Prize&lt;/strong&gt; in Cross-Scenario Monocular Depth Estimation Track&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;award-item&#34;&gt;
+    &lt;div class=&#34;award-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/awards/IV0.gif&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;award-info&#34;&gt;
+      &lt;div class=&#34;award-title&#34;&gt;2022 China National Undergraduate Intelligent Vehicle Competition&lt;/div&gt;
+      &lt;div class=&#34;award-org&#34;&gt;Organization: Chinese Association of Automation&lt;/div&gt;
+      &lt;div class=&#34;award-team&#34;&gt;Teammates: &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Shijun Wu, Tingnan Liu et al.&lt;/div&gt;
+      &lt;div class=&#34;award-level&#34;&gt;Award: &lt;strong&gt;National First Prize&lt;/strong&gt; in Baidu Racing Group&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;award-item&#34;&gt;
+    &lt;div class=&#34;award-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/awards/IV1.gif&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;award-info&#34;&gt;
+      &lt;div class=&#34;award-title&#34;&gt;2022 China National Undergraduate Intelligent Vehicle Competition&lt;/div&gt;
+      &lt;div class=&#34;award-org&#34;&gt;Organization: Chinese Association of Automation&lt;/div&gt;
+      &lt;div class=&#34;award-team&#34;&gt;Teammates: &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Shijun Wu, Tingnan Liu et al.&lt;/div&gt;
+      &lt;div class=&#34;award-level&#34;&gt;Award: &lt;strong&gt;National Second Prize&lt;/strong&gt; in Baidu Creative Group&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;award-item&#34;&gt;
+    &lt;div class=&#34;award-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/awards/ED.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;award-info&#34;&gt;
+      &lt;div class=&#34;award-title&#34;&gt;2021 National Undergraduate Electronics Design Contest&lt;/div&gt;
+      &lt;div class=&#34;award-org&#34;&gt;Organization: Ministry of Education of the People&#39;s Republic of China&lt;/div&gt;
+      &lt;div class=&#34;award-team&#34;&gt;Teammates: &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Shijun Wu, Qihang Liang&lt;/div&gt;
+      &lt;div class=&#34;award-level&#34;&gt;Award: &lt;strong&gt;National Second Prize&lt;/strong&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</description>
     </item>
     <item>
       <title>👤 About Me</title>
@@ -30,11 +75,11 @@
     &lt;div class=&#34;about-list&#34;&gt;
         &lt;ul&gt;
             &lt;li&gt;2023.09 – 2026.06, &lt;br&gt;
-                Huazhong University of Science and Technology, &lt;br&gt;
-                M.Eng. in Artificial Intelligence&lt;/li&gt;
+                &lt;a href=&#34;https://english.hust.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huazhong University of Science and Technology (HUST)&lt;/a&gt;, &lt;br&gt;
+                Master of Engineering in Artificial Intelligence, supervised by Prof. &lt;a href=&#34;https://owuchangyuo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Chang&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;2019.09 – 2023.06, &lt;br&gt;
-                Northeastern University at Qinhuangdao, &lt;br&gt;
-                B.Eng. in Automation&lt;/li&gt;
+                &lt;a href=&#34;https://www.neuq.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University at Qinhuangdao (NEUQ)&lt;/a&gt;, &lt;br&gt;
+                Bachelor of Engineering in Automation&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;p&gt;&lt;strong&gt;📚 Research Interests:&lt;/strong&gt;&lt;/p&gt;
@@ -60,7 +105,24 @@
       <description>&lt;section class=&#34;publications-section&#34;&gt;
   &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;pub-left&#34;&gt;
-      &lt;img src=&#34;https://pengshihan.com/publications/NERNet.png&#34; alt=&#34;Paper 1&#34; /&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/NERNetPLUS.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;NER-Net+: Seeing motion at nighttime with an event camera&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Haoyue Liu, Jinghan Xu, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Yi Chang*, Hanyu Zhou, Yuxing Duan, Lin Zhu, Yonghong Tian, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence (&lt;strong&gt;TPAMI&lt;/strong&gt;), 2025&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10904298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
+        &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
+        &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/NERNet.jpg&#34;/&gt;
     &lt;/div&gt;
     &lt;div class=&#34;pub-right&#34;&gt;
       &lt;div class=&#34;pub-title&#34;&gt;
@@ -72,6 +134,22 @@
         &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
         &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
         &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/JSTR.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Hanyu Zhou, Zhiwei Shi, Hao Dong, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Yi Chang, Luxin Yan*&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE International Conference on Robotics and Automation (&lt;strong&gt;ICRA&lt;/strong&gt;), 2024&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://ieeexplore.ieee.org/document/10610608&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
+        &lt;a href=&#34;https://github.com/Alex-code-hust/IMU_based_motion_segmentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
