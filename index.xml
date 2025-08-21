@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title></title>
-      <link>https://pengshihan.com/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pengshihan.com/publications/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>👤 About Me</title>
       <link>https://pengshihan.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,6 +51,31 @@
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>📝 Selected Publications</title>
+      <link>https://pengshihan.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pengshihan.com/publications/</guid>
+      <description>&lt;section class=&#34;publications-section&#34;&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/NERNet.png&#34; alt=&#34;Paper 1&#34; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;Seeing Motion at Nighttime with an Event Camera&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Haoyue Liu, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Lin Zhu, Yi Chang*, Hanyu Zhou, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2025&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
+        &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
+        &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</description>
     </item>
     <item>
       <title>🤝 Friendly Links</title>
