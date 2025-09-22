@@ -4,7 +4,7 @@
     <title>Blang&#39;s Blog</title>
     <link>https://pengshihan.com/</link>
     <description>Recent content on Blang&#39;s Blog</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
@@ -129,7 +129,7 @@
         &lt;strong&gt;Seeing Motion at Nighttime with an Event Camera&lt;/strong&gt;
       &lt;/div&gt;
       &lt;div class=&#34;pub-authors&#34;&gt;Haoyue Liu, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Lin Zhu, Yi Chang*, Hanyu Zhou, Luxin Yan&lt;/div&gt;
-      &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2025&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2024&lt;/div&gt;
       &lt;div class=&#34;pub-links&#34;&gt;
         &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
         &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
