@@ -4,7 +4,7 @@
     <title>Blang&#39;s Blog</title>
     <link>https://pengshihan.com/</link>
     <description>Recent content on Blang&#39;s Blog</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
@@ -191,6 +191,17 @@
     &lt;div class=&#34;frienddivright&#34;&gt;
       &lt;div class=&#34;friendname&#34;&gt;Prof. Yi Chang&lt;/div&gt;
       &lt;div class=&#34;friendinfo&#34;&gt;The personal page of Prof. Yi Chang.&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; href=https://hyzhouboy.github.io/ title=Dr.&amp;#32;Hanyu&amp;#32;Zhou class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://hyzhouboy.github.io/img/hyzhou.jpg /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;Dr. Hanyu Zhou&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;The personal page of Dr. Hanyu Zhou.&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/a&gt;
