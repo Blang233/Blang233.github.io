@@ -4,7 +4,7 @@
     <title>Blang&#39;s Blog</title>
     <link>https://pengshihan.com/</link>
     <description>Recent content on Blang&#39;s Blog</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
@@ -87,7 +87,7 @@
         &lt;ul&gt;
             &lt;li&gt;Depth Estimation&lt;/li&gt;
             &lt;li&gt;Event Camera&lt;/li&gt;
-            &lt;li&gt;Multi-Modal Perception&lt;/li&gt;
+            &lt;li&gt;Multimodal Perception&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;p&gt;&lt;strong&gt;🌐 Contact:&lt;/strong&gt; 
@@ -102,7 +102,25 @@
       <link>https://pengshihan.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pengshihan.com/publications/</guid>
-      <description>&lt;section class=&#34;publications-section&#34;&gt;
+      <description>&lt;p class=&#34;pub-note&#34;&gt;
+  &lt;strong&gt;(†: Co-First Author; *: Corresponding Author)&lt;/strong&gt;
+&lt;/p&gt;
+&lt;section class=&#34;publications-section&#34;&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/ADAE.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;Adapting Depth Anything to Adverse Imaging Conditions with Events&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;&lt;strong&gt;Shihan Peng&lt;/strong&gt;, Yuyang Xiong, Hanyu Zhou, Zhiwei Shi, Haoyue Liu*, Gang Chen, Luxin Yan, Yi Chang&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;ArXiv, 2026&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://github.com/Blang233/ADAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
   &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;pub-left&#34;&gt;
       &lt;img src=&#34;https://pengshihan.com/publications/NERNetPLUS.png&#34;/&gt;
@@ -122,6 +140,21 @@
   &lt;/div&gt;
   &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/CoSEC.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;&lt;strong&gt;Shihan Peng†&lt;/strong&gt;, Hanyu Zhou†, Hao Dong, Zhiwei Shi, Haoyue Liu, Yuxing Duan, Yi Chang*, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;ArXiv, 2024&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://arxiv.org/pdf/2408.08500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
       &lt;img src=&#34;https://pengshihan.com/publications/NERNet.jpg&#34;/&gt;
     &lt;/div&gt;
     &lt;div class=&#34;pub-right&#34;&gt;
@@ -134,6 +167,21 @@
         &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
         &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
         &lt;a href=&#34;https://github.com/Liu-haoyue/NER-Net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/LED.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Yuxing Duan, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Lin Zhu, Wei Zhang, Yi Chang*, Sheng Zhong, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2024&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://arxiv.org/pdf/2405.19718&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
