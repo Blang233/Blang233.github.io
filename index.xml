@@ -4,7 +4,7 @@
     <title>Blang&#39;s Blog</title>
     <link>https://pengshihan.com/</link>
     <description>Recent content on Blang&#39;s Blog</description>
-    <generator>Hugo -- 0.154.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
@@ -184,6 +184,8 @@
       &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2024&lt;/div&gt;
       &lt;div class=&#34;pub-links&#34;&gt;
         &lt;a href=&#34;https://arxiv.org/pdf/2405.19718&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt;
+        &lt;a href=&#34;https://github.com/Yee-Sing/led?tab=readme-ov-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt; |
+        &lt;a href=&#34;https://pan.baidu.com/s/1ldFgt089GsgLIJh3I57wsQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
