@@ -125,6 +125,22 @@
   &lt;/div&gt;
   &lt;div class=&#34;publication-item&#34;&gt;
     &lt;div class=&#34;pub-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/publications/EvoTrack.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pub-right&#34;&gt;
+      &lt;div class=&#34;pub-title&#34;&gt;
+        &lt;strong&gt;Tracking through Severe Occlusion via Event-Derived Transient Cues&lt;/strong&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Hao Dong, Yujin Liu, Haoyue Liu, Zhenyu Wang, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Zhiwei Shi, Yi Chang*, Luxin Yan&lt;/div&gt;
+      &lt;div class=&#34;pub-journal&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition (&lt;strong&gt;CVPR&lt;/strong&gt;), 2026&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2026/papers/Dong_Tracking_through_Severe_Occlusion_via_Event-Derived_Transient_Cues_CVPR_2026_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt; |
+        &lt;a href=&#34;https://feot-dataset.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📂 Data&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;publication-item&#34;&gt;
+    &lt;div class=&#34;pub-left&#34;&gt;
       &lt;img src=&#34;https://pengshihan.com/publications/NERNetPLUS.png&#34;/&gt;
     &lt;/div&gt;
     &lt;div class=&#34;pub-right&#34;&gt;
