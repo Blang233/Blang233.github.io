@@ -74,6 +74,9 @@
     &lt;p&gt;&lt;strong&gt;🎓 Education:&lt;/strong&gt;&lt;/p&gt;
     &lt;div class=&#34;about-list&#34;&gt;
         &lt;ul&gt;
+            &lt;li&gt;2026.09 – Present, &lt;br&gt;
+                &lt;a href=&#34;https://www.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tsinghua University (THU)&lt;/a&gt;, &lt;br&gt;
+                Doctor of Engineering in Electronic Information, supervised by Prof. &lt;a href=&#34;https://chen-xinlei.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xinlei Chen&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;2023.09 – 2026.06, &lt;br&gt;
                 &lt;a href=&#34;https://english.hust.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huazhong University of Science and Technology (HUST)&lt;/a&gt;, &lt;br&gt;
                 Master of Engineering in Artificial Intelligence, supervised by Prof. &lt;a href=&#34;https://owuchangyuo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Chang&lt;/a&gt;&lt;/li&gt;
@@ -249,6 +252,17 @@
     &lt;div class=&#34;frienddivright&#34;&gt;
       &lt;div class=&#34;friendname&#34;&gt;YK&amp;#39;s Blog&lt;/div&gt;
       &lt;div class=&#34;friendinfo&#34;&gt;A blog that records YK&amp;#39;s life.&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; href=https://chen-xinlei.com/ title=Prof.&amp;#32;Xinlei&amp;#32;Chen class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://chen-xinlei.com/images/personal-photo.jpg /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;Prof. Xinlei Chen&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;The personal page of Prof. Xinlei Chen.&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/a&gt;
