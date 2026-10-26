@@ -9,6 +9,30 @@
     <copyright>Copyright © 2025 Blang&amp;rsquo;s Blog</copyright>
     <atom:link href="https://pengshihan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>🎯 Activities</title>
+      <link>https://pengshihan.com/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pengshihan.com/activities/</guid>
+      <description>&lt;section class=&#34;activities-section&#34;&gt;
+  &lt;article class=&#34;activity-item&#34;&gt;
+    &lt;div class=&#34;activity-left&#34;&gt;
+      &lt;img src=&#34;https://pengshihan.com/activities/eccv_workshop_ebmv.png&#34; alt=&#34;Event-Based Multimodal Vision workshop at ECCV 2026&#34; width=&#34;552&#34; height=&#34;422&#34; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;activity-info&#34;&gt;
+      &lt;div class=&#34;activity-title&#34;&gt;Event-Based Multimodal Vision: Imaging, Perception, and Understanding&lt;/div&gt;
+      &lt;div class=&#34;activity-organizers&#34;&gt;Organizers: Hanyu Zhou, Yunfan Lu, Shaoyu Liu, Haoyue Liu, Peiqi Duan, &lt;strong&gt;Shihan Peng&lt;/strong&gt;, Yinqiang Zheng, Boxin Shi, Kuk-Jin Yoon, Hui Xiong, Gim Hee Lee, Davide Scaramuzza&lt;/div&gt;
+      &lt;div class=&#34;activity-venue&#34;&gt;Workshop @ &lt;strong&gt;ECCV 2026&lt;/strong&gt;&lt;/div&gt;
+      &lt;div class=&#34;activity-date&#34;&gt;Malmö, Sweden · September 8, 2026&lt;/div&gt;
+      &lt;div class=&#34;activity-links&#34;&gt;
+        &lt;a href=&#34;https://eventbasemultimodalvision.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🌐 Website&lt;/a&gt; |
+        &lt;a href=&#34;https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/EBMV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Accepted Papers&lt;/a&gt; |
+        &lt;a href=&#34;https://drive.google.com/drive/folders/1x9A4uiixCzNjxIMXQAc77DLOl0ohhJHE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📷 Group Photos&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+&lt;/section&gt;</description>
+    </item>
+    <item>
       <title>🏆 Competition Awards</title>
       <link>https://pengshihan.com/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
