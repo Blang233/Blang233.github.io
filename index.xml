@@ -91,7 +91,7 @@
       <guid>https://pengshihan.com/about/</guid>
       <description>&lt;div class=&#34;about-container&#34;&gt;
   &lt;div class=&#34;about-photo&#34;&gt;
-    &lt;img src=&#34;https://pengshihan.com/about/me.png&#34; alt=&#34;My Photo&#34;&gt;
+    &lt;img src=&#34;https://pengshihan.com/about/me.jpg&#34; alt=&#34;My Photo&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;about-info&#34;&gt;
     &lt;p&gt;&lt;strong&gt;🙋🏻‍♂️ Name:&lt;/strong&gt; Shihan Peng (彭仕涵)&lt;/p&gt;
@@ -105,7 +105,7 @@
                 &lt;a href=&#34;https://english.hust.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huazhong University of Science and Technology (HUST)&lt;/a&gt;, &lt;br&gt;
                 Master of Engineering in Artificial Intelligence, supervised by Prof. &lt;a href=&#34;https://owuchangyuo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Chang&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;2019.09 – 2023.06, &lt;br&gt;
-                &lt;a href=&#34;https://www.neuq.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University at Qinhuangdao (NEUQ)&lt;/a&gt;, &lt;br&gt;
+                &lt;a href=&#34;https://english.neu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northeastern University (NEU)&lt;/a&gt;, &lt;br&gt;
                 Bachelor of Engineering in Automation&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
@@ -129,7 +129,7 @@
     &lt;a href=&#34;https://english.hust.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Huazhong University of Science and Technology&#34;&gt;
       &lt;img src=&#34;https://pengshihan.com/about/hust.svg&#34; alt=&#34;Huazhong University of Science and Technology emblem&#34; width=&#34;120&#34; height=&#34;120&#34; loading=&#34;lazy&#34;&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://www.neuq.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Northeastern University at Qinhuangdao&#34;&gt;
+    &lt;a href=&#34;https://english.neu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Northeastern University&#34;&gt;
       &lt;img src=&#34;https://pengshihan.com/about/neu.svg&#34; alt=&#34;Northeastern University emblem&#34; width=&#34;120&#34; height=&#34;120&#34; loading=&#34;lazy&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
